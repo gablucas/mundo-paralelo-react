@@ -1,0 +1,55 @@
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 210px;
+  height: 210px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 1);
+}
+
+.header {
+  display: grid;
+  margin-top: 20px;
+  position: relative;
+  height: 230px;
+}
+
+.header::after {
+  content: "";
+  height: 70px;
+  width: 50vw;
+  border-radius: 50px 0 0 50px;
+  background-color: rgba(0, 0, 0, .9);
+  
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: calc(50% - 35px);
+  z-index: -1;
+}
+
+.header nav {
+  display: flex;
+}
+
+.header ul {
+  display: flex;
+  align-items: center;
+  margin-left: 45rem;
+  gap: 40px;
+  color: #FFFFFF;
+}
+
+.header li::after {
+  content: "";
+  display: block;
+  height: 2px;
+  width: 0px;
+  background: #FFFFFF;
+  transition: width .3s;
+}
+
+.header li:hover::after {
+  width: 100%;
+}
