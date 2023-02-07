@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mundo-paralelo-react/static/css/main.3a7dacac.css",
+    "main.js": "/mundo-paralelo-react/static/js/main.a0fd6439.js",
+    "static/js/787.cfa7da4a.chunk.js": "/mundo-paralelo-react/static/js/787.cfa7da4a.chunk.js",
+    "static/media/IMG_9266.JPG": "/mundo-paralelo-react/static/media/IMG_9266.fe7d2f28e4f932089b44.JPG",
+    "static/media/312324696_568267931970535__n.jpg": "/mundo-paralelo-react/static/media/312324696_568267931970535_9211059687345466237_n.40a6bc39cf3b378babb5.jpg",
+    "static/media/300058936_499694242161238__n.jpg": "/mundo-paralelo-react/static/media/300058936_499694242161238_5228224882406012160_n.d8aa44209076bc48d917.jpg",
+    "static/media/315986367_585164046947590__n.jpg": "/mundo-paralelo-react/static/media/315986367_585164046947590_3521420843144914524_n.588fa9a701225f4969a0.jpg",
+    "static/media/299543462_496611789136150__n.jpg": "/mundo-paralelo-react/static/media/299543462_496611789136150_5657465179900029168_n.3363d02be8fec4ef5482.jpg",
+    "static/media/312443958_558366792960649__n.jpg": "/mundo-paralelo-react/static/media/312443958_558366792960649_345075046440387710_n.2be13560c2cbf5fff35e.jpg",
+    "static/media/314027274_571099978353997__n.jpg": "/mundo-paralelo-react/static/media/314027274_571099978353997_7474914187686835569_n.78d97db9425adba5d7ad.jpg",
+    "static/media/logo_mundo_paralelo.png": "/mundo-paralelo-react/static/media/logo_mundo_paralelo.3fd08219da761afb11bf.png",
+    "static/media/cool.png": "/mundo-paralelo-react/static/media/cool.54fe196b95561584c139.png",
+    "static/media/skate-board.png": "/mundo-paralelo-react/static/media/skate-board.610968edb19a6d1cc496.png",
+    "static/media/surfing.png": "/mundo-paralelo-react/static/media/surfing.947cf312d56f56e97d26.png",
+    "static/media/double_waveline.svg": "/mundo-paralelo-react/static/media/double_waveline.11b27eac1c204a582d28.svg",
+    "index.html": "/mundo-paralelo-react/index.html",
+    "main.3a7dacac.css.map": "/mundo-paralelo-react/static/css/main.3a7dacac.css.map",
+    "main.a0fd6439.js.map": "/mundo-paralelo-react/static/js/main.a0fd6439.js.map",
+    "787.cfa7da4a.chunk.js.map": "/mundo-paralelo-react/static/js/787.cfa7da4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7dacac.css",
+    "static/js/main.a0fd6439.js"
+  ]
+}
